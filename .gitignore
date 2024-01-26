@@ -1,0 +1,101 @@
+# Arquivos temporários
+bin/
+obj/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+*.dll.mdb
+
+# Arquivos de publicação
+publish/
+
+# Arquivos gerados por Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Pasta de pacotes
+packages/
+
+# Dependências
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ferramenta de compilação
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp
+*.log
+*.vspscc
+*.vssscc
+.builds/
+*.pidb
+*.svclog
+*.vspscc
+
+# Resíduos de teste
+[Tt]est[Rr]esult*/
+[Bb]in*/
+[Oo]bj*/
+[Ll]og/
+[Ll]ogs/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.dotCover
+*.dotSettings.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
